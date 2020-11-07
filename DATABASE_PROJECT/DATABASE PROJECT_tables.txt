@@ -1,0 +1,17 @@
+donation management system
+
+
+1. medical donation
+	i.   blood bank
+	ii.  organ donation
+	 
+2. money donation
+
+3. Donation of items and supplies
+	i.   Donation of wearable items
+	ii.  Donation of food supplies
+	iii. Donation of medicines and health equipment
+
+4. login 
+	i. admin & user
+
